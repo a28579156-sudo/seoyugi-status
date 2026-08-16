@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "reason": "오늘은 여기까지",
-  "sequence": 4,
+  "enabled": true,
+  "reason": "",
+  "sequence": 5,
   "not_after": "",
   "issued_at": "2026-08-17",
-  "signature": "LEfXZiltjXTM3VAB7Ovl2lpgAoqQR0YxIKROJUvUFDJJdLMYnmw0zRYQm7jTaAuixfAJLgEHdD1oU37FviIfCA=="
+  "signature": "KRJmTh1/F2g2Qxep2TJh4/ELqwZHPM2M6I8ZpdHLsM26iN0mWc60szk56Qv+PGfmha/UZtuXI3m1B9Ang4SlBA=="
 }
