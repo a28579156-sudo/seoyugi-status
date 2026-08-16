@@ -1,8 +1,8 @@
 {
-  "enabled": true,
-  "reason": "",
-  "sequence": 5,
+  "enabled": false,
+  "reason": "형이 서버를 껐습니다",
+  "sequence": 6,
   "not_after": "",
   "issued_at": "2026-08-17",
-  "signature": "KRJmTh1/F2g2Qxep2TJh4/ELqwZHPM2M6I8ZpdHLsM26iN0mWc60szk56Qv+PGfmha/UZtuXI3m1B9Ang4SlBA=="
+  "signature": "+BFqntQCmBRKAm5BIZ7kWkrRPr07cy3dMasKGHinMmp9hrKObwifjwEmahKsIWnJK92svpVAqSMh42uNuwJqAg=="
 }
