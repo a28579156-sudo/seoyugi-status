@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "reason": "점검 중입니다",
-  "sequence": 8,
+  "enabled": true,
+  "reason": "",
+  "sequence": 9,
   "not_after": "",
   "issued_at": "2026-08-17",
-  "signature": "/Pcq9zcUtgq/hLLOa7A6ih22/7Ao4SaS36lFoWepujAIyf8HPfEUBBOws5ES+Faj5VcrnMVdkQTuOiUM46vaDw=="
+  "signature": "50yKBtyKSrzTz+QawMZZCMHbnNEUm53zBJXtozTKo19d6F5x4Kt7U+eHsLMS2DgsHjhTsd53qJqF40A5DqfBBw=="
 }
