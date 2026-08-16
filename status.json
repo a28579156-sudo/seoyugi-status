@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "reason": "지금은 잠가 뒀습니다",
-  "sequence": 2,
+  "enabled": true,
+  "reason": "",
+  "sequence": 3,
   "not_after": "",
   "issued_at": "2026-08-17",
-  "signature": "BgHVvQeFnfNhCoMZZgnYJR9GdRDnkJVDIf2u1UPLd3ZXM8heBD/r2mi0SvoEoEgdST0dADAeRxYPYXMGhG2iDw=="
+  "signature": "dNZaGvw8+i4QpBzhMdd4+zjBKZyyI9SxSM3RzUX/dWY1cC9Uo0yodDeAa7yxJ4Y/GCiRjjLkl3Go2+h//UfUBg=="
 }
