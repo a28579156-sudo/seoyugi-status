@@ -1,8 +1,8 @@
 {
-  "enabled": true,
-  "reason": "",
-  "sequence": 9,
+  "enabled": false,
+  "reason": "배포 전 점검 중",
+  "sequence": 10,
   "not_after": "",
   "issued_at": "2026-08-17",
-  "signature": "50yKBtyKSrzTz+QawMZZCMHbnNEUm53zBJXtozTKo19d6F5x4Kt7U+eHsLMS2DgsHjhTsd53qJqF40A5DqfBBw=="
+  "signature": "5BweoGpucCNiLwFKcxTj9zVpo/HrqAsBAFi0Q3xg8bV+rrx1pvcbptE8sNaPs/Tq8v9xEqkPTtJRdI90l+GjAw=="
 }
