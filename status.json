@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "reason": "",
-  "sequence": 11,
+  "sequence": 12,
   "not_after": "",
-  "issued_at": "2026-08-17",
-  "signature": "RMlwCbab6kMCJwQUzfavzkmFVW2Aj2C+5cD6FxSu7/H+TnKYVpsM4uqwAyxOHLd4utxvfZxHj+avQsVZWo+iBw=="
+  "issued_at": "2026-08-22",
+  "donation": "후원 · 카카오뱅크 3333-10-2748747 (ㄱㄱㅅ) — 서버 유지에 큰 도움이 됩니다",
+  "signature": "GMoJUiW4xAlKDNY0E5pPiMtlUId361JLJX5iAWpSx6NC5nMROmz/AO+gPyR2udmRjD89npnnuIJ7/KX4TELjDQ=="
 }
