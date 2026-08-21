@@ -1,10 +1,10 @@
 {
-  "enabled": false,
-  "reason": "잠시 점검 중입니다",
-  "sequence": 20,
+  "enabled": true,
+  "reason": "",
+  "sequence": 21,
   "not_after": "",
   "issued_at": "2026-08-22",
   "donation": "혼자 만든 개인 프로젝트입니다. 우여곡절 끝에 드디어 여기까지 왔습니다. 모든 걸 완벽하게 되살리진 못했지만, 그때 그 추억을 다시 꺼내 보기엔 충분할 겁니다. 직장 다니면서 만드느라 오래 걸렸지만, 여러분이 즐거웠으면 하는 마음 하나로 끝까지 했습니다. 후원해 주시면 더 다듬고 채워 나가는 데 큰 힘이 됩니다. 고맙습니다.",
   "donation_account": "3333-10-2748747",
-  "signature": "eVNnhuc6iR4AdNp4kQbD6Rhl3W3S8AuZ5A50FwEkmUKHooJGPGnDKyH2a5oynfEkxRg0QuMHfCF9HOwzG+0FCA=="
+  "signature": "QXFvh7qAGBx+7VkIyJ2Mrfpr+Cx0lPK8yWVp+QCKImtUlHdoHy8wnOjeB/8lIHKj+dcqNsy0Jc6W2bbj7GVkAQ=="
 }
