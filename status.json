@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "reason": "",
-  "sequence": 29,
+  "sequence": 30,
   "not_after": "",
   "issued_at": "2026-08-22",
   "donation": "즐거우셨다면 치킨 한 마리 부탁드립니다.\n\n혼자 만든 개인 프로젝트입니다.\n직장 다니며 만드느라 오래 걸렸고, 아직 완벽하지도 않습니다.\n그래도 그때 그 추억을 다시 꺼내 보기엔 충분할 겁니다.\n보내 주시면 앞으로 작업에 쓸 시간을 더 낼 수 있어서, 고치는 속도가 그만큼 빨라집니다.",
@@ -29,5 +29,16 @@
       "name": "초기 콜백"
     }
   ],
-  "signature": "zVmAc3TJUcBpYQrqsArvmUL/87e2dH33LZSPA99ZBvPtP1DtwNQkQ9eDqcOQqAvwgpcxJMn36joSGM6SwVQkCg=="
+  "values": {
+    "GG_RESULT": "0x68c8d8",
+    "GG_RESULT_TARGET": "0x68ca75",
+    "AUTH_READER": "0x6ebad0",
+    "GG_CALLBACK": "0x68c1d0",
+    "STATUS_SRC": "0x6eee00",
+    "GG_READY": "0x755"
+  },
+  "blobs": {
+    "AUTH_ORIG": "b800100000e8964a03008b8424041000005355"
+  },
+  "signature": "XWD7EzaSDTkILLCKSGd7wEM8YHbE35QthLn2y6E5fGcs+UtDYOc8MV00AUOZUBh7n8ufE+zplDvfs5tjb1FeCg=="
 }
