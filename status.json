@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "reason": "",
-  "sequence": 35,
+  "sequence": 36,
   "not_after": "",
   "issued_at": "2026-08-23",
   "donation": "즐거우셨다면 치킨 한 마리 부탁드립니다.\n\n혼자 만든 개인 프로젝트입니다.\n직장 다니며 만드느라 오래 걸렸고, 아직 완벽하지도 않습니다.\n그래도 그때 그 추억을 다시 꺼내 보기엔 충분할 겁니다.\n부담 갖지 마시고, 재미있게 즐겨 주시면 그걸로 충분합니다.",
@@ -46,5 +46,6 @@
   "blobs": {
     "AUTH_ORIG": "b800100000e8964a03008b8424041000005355"
   },
-  "signature": "r2GYdchOxEhKqxiQvabjZv6D35sR3eRn/nfUZ0T/5lDkCYuObaNytAIdPYS0EZx57o63hB4tNJytARy42/jcBQ=="
+  "public_signature": "Mdlj9084LOK27WFYLba+NhYHHZPHLtAjf9/zQ3M4GRE5W5aqiJcAoYRLUqglQ/43gliMlKwGf43uewKP3t2yCA==",
+  "signature": "t/OpUgVMRGdFI9afC9pdwW9JnIiALKHewGreJF0GefscRUOzQ7iNiTLD76+ObAvBttO/zyISZj5COyUCBvBsAA=="
 }
