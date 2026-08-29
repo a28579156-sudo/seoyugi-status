@@ -1,18 +1,18 @@
 {
   "enabled": true,
   "reason": "",
-  "sequence": 37,
+  "sequence": 38,
   "not_after": "",
-  "issued_at": "2026-08-24",
+  "issued_at": "2026-08-29",
   "donation": "즐거우셨다면 치킨 한 마리 부탁드립니다.\n\n혼자 만든 개인 프로젝트입니다.\n직장 다니며 만드느라 오래 걸렸고, 아직 완벽하지도 않습니다.\n그래도 그때 그 추억을 다시 꺼내 보기엔 충분할 겁니다.\n부담 갖지 마시고, 재미있게 즐겨 주시면 그걸로 충분합니다.",
   "donation_account": "3333-10-2748747",
   "donation_bank": "카카오뱅크",
   "sandbox": false,
   "install": {
-    "url": "https://github.com/a28579156-sudo/seoyugi-dist/releases/download/v1/seoyugi-2026.08.24.zip",
-    "version": "2026.08.24",
-    "size": 1312630545,
-    "sha256": "42882bf954eaf2186f0a55217f584e9bc7e10076d10cacb89751047790ff7d55"
+    "url": "https://github.com/a28579156-sudo/seoyugi-dist/releases/download/v1/seoyugi-2026.08.24b.zip",
+    "version": "2026.08.24b",
+    "size": 1312638994,
+    "sha256": "a0be7e185806875e001f751396b715f077c610bfcd8e5898fc3858bd022941a4"
   },
   "admin": false,
   "boot": [
@@ -46,6 +46,6 @@
   "blobs": {
     "AUTH_ORIG": "b800100000e8964a03008b8424041000005355"
   },
-  "public_signature": "iaA4plZ+XH16Y5FdW90CHCKMbHJo4JEl6jEzghBxWCqwA82jhdmzA53lgYppKQ2Gr5+CfEXo180hWoI6eMXrBA==",
-  "signature": "epNTOAYdVJ5oAytlpTyeR4m64sbbmY5MbkvOJlIfbrEXFCPrxc5THtrdGalMTXN2KWLBYKlz2Hy/rC6BojymBQ=="
+  "public_signature": "WNCMQkOTSpTNZFMHlstuKoEy1TcpySFHvAvc0iQxY0bWPr7K4HzjoDG5KvsSarcdG+n3vJfS9ilY4a9qwyVLBA==",
+  "signature": "1F55wgvXrQ0CsuKpc+/PpgFEafuYgZTlf3pfaC0D8lR/8414Q22L76rdTLfBeujXt0b+gDnJLF997T7DSCrtCw=="
 }
